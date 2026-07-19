@@ -1,0 +1,16 @@
+# Conda / environment
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Large data files (adjust as needed)
+*.pdbqt
+*.dcd
+*.xtc
+*.trr
+06_md/trajectories/
+results/*.csv
+
+# OS/editor junk
+.DS_Store
+.vscode/
