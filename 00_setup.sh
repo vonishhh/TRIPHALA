@@ -17,4 +17,4 @@ echo "Done! Folder structure created inside $(pwd)"
 
 conda create -n triphala python=3.10 -y
 
-echo "Setup complete. Always run 'conda activate triphala' before working."
+# echo "Setup complete. Always run 'conda activate triphala' before working."
