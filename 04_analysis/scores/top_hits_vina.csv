@@ -1,0 +1,31 @@
+Protein,CID,Affinity_kcal_mol,IUPACName,Source_Plant
+bcl2,122724,-8.405,"(2R,4aS,6aR,6aS,14aS,14bR)-10-hydroxy-2,4a,6a,6a,9,14a-hexamethyl-11-oxo-1,3,4,5,6,13,14,14b-octahydropicene-2-carboxylic acid",Terminalia chebula
+bcl2,108065,-8.239,"(3R)-2-(3,5-dihydroxy-4-methoxyphenyl)-8-[(2R,3R,4R)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)-3,4-dihydro-2H-chromen-4-yl]-3,4-dihydro-2H-chromene-3,5,7-triol",Phyllanthus emblica
+bcl2,6918774,-7.71,"(1S,2R,4aS,6aR,6aS,6bR,8aR,10R,11R,12aR,14bS)-10,11-dihydroxy-1,2,6a,6b,9,9,12a-heptamethyl-2,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydro-1H-picene-4a-carboxylic acid",Terminalia chebula
+bcl2,622032,-7.624,"1,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid",Terminalia bellirica
+bcl2,73659,-7.566,"(4aS,6aR,6aS,6bR,8aR,10R,11R,12aR,14bS)-10,11-dihydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid",Terminalia chebula
+bcl2,12444386,-7.464,"(1S,4aR,6aR,6aS,6bR,8aR,9R,10R,11R,12aR,14bS)-1,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid",Terminalia chebula
+bcl2,73641,-7.449,"(4aS,6aR,6aS,6bR,8aR,9R,10R,11R,12aR,14bS)-10,11-dihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid",Terminalia chebula
+bcl2,107876,-7.4,"2-(3,4-dihydroxyphenyl)-2-[[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-chromen-3-yl]oxy]-3,4-dihydrochromene-3,4,5,7-tetrol",Phyllanthus emblica
+bcl2,14658050,-7.242,"[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (1S,4aR,6aR,6aS,6bR,8aR,9R,10R,11R,12aR,14bS)-1,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylate",Terminalia chebula
+bcl2,466078,-7.181,"(2S)-2-(1,3-benzodioxol-5-yl)-3,4-dihydro-2H-chromen-7-ol",Terminalia bellirica
+caspase3,108065,-8.272,"(3R)-2-(3,5-dihydroxy-4-methoxyphenyl)-8-[(2R,3R,4R)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)-3,4-dihydro-2H-chromen-4-yl]-3,4-dihydro-2H-chromene-3,5,7-triol",Phyllanthus emblica
+caspase3,107876,-8.059,"2-(3,4-dihydroxyphenyl)-2-[[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-chromen-3-yl]oxy]-3,4-dihydrochromene-3,4,5,7-tetrol",Phyllanthus emblica
+caspase3,122724,-7.83,"(2R,4aS,6aR,6aS,14aS,14bR)-10-hydroxy-2,4a,6a,6a,9,14a-hexamethyl-11-oxo-1,3,4,5,6,13,14,14b-octahydropicene-2-carboxylic acid",Terminalia chebula
+caspase3,14658050,-7.74,"[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (1S,4aR,6aR,6aS,6bR,8aR,9R,10R,11R,12aR,14bS)-1,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylate",Terminalia chebula
+caspase3,73659,-7.67,"(4aS,6aR,6aS,6bR,8aR,10R,11R,12aR,14bS)-10,11-dihydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid",Terminalia chebula
+caspase3,65064,-7.635,"[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromen-3-yl] 3,4,5-trihydroxybenzoate",Phyllanthus emblica
+caspase3,13254473,-7.546,"(2S)-2-(3,4-dihydroxyphenyl)-5-hydroxy-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,3-dihydrochromen-4-one",Phyllanthus emblica
+caspase3,101425822,-7.513,"[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (4aS,6aR,6aS,6bR,8aR,10R,11R,12aR,14bS)-10,11-dihydroxy-9,9-bis(hydroxymethyl)-2,2,6a,6b,12a-pentamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylate",Terminalia chebula
+caspase3,10416810,-7.336,"[(1S,9R,18R,19S,21R,22S)-7,7,8,12,13,22-hexahydroxy-21-(hydroxymethyl)-3,6,16-trioxo-2,17,20,23-tetraoxapentacyclo[16.3.1.18,11.04,9.010,15]tricosa-4,10,12,14-tetraen-19-yl] 3,4,5-trihydroxybenzoate",Phyllanthus emblica
+caspase3,622032,-7.188,"1,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid",Terminalia bellirica
+keap1,65064,-9.327,"[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromen-3-yl] 3,4,5-trihydroxybenzoate",Phyllanthus emblica
+keap1,5282102,-9.166,"5,7-dihydroxy-2-(4-hydroxyphenyl)-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one",Phyllanthus emblica
+keap1,466078,-8.623,"(2S)-2-(1,3-benzodioxol-5-yl)-3,4-dihydro-2H-chromen-7-ol",Terminalia bellirica
+keap1,122724,-8.56,"(2R,4aS,6aR,6aS,14aS,14bR)-10-hydroxy-2,4a,6a,6a,9,14a-hexamethyl-11-oxo-1,3,4,5,6,13,14,14b-octahydropicene-2-carboxylic acid",Terminalia chebula
+keap1,101425822,-8.469,"[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (4aS,6aR,6aS,6bR,8aR,10R,11R,12aR,14bS)-10,11-dihydroxy-9,9-bis(hydroxymethyl)-2,2,6a,6b,12a-pentamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylate",Terminalia chebula
+keap1,108065,-8.441,"(3R)-2-(3,5-dihydroxy-4-methoxyphenyl)-8-[(2R,3R,4R)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)-3,4-dihydro-2H-chromen-4-yl]-3,4-dihydro-2H-chromene-3,5,7-triol",Phyllanthus emblica
+keap1,13254473,-8.398,"(2S)-2-(3,4-dihydroxyphenyl)-5-hydroxy-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,3-dihydrochromen-4-one",Phyllanthus emblica
+keap1,6780,-8.158,"anthracene-9,10-dione",Terminalia chebula
+keap1,107876,-8.132,"2-(3,4-dihydroxyphenyl)-2-[[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-chromen-3-yl]oxy]-3,4-dihydrochromene-3,4,5,7-tetrol",Phyllanthus emblica
+keap1,493570,-8.118,"7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridine-2,4-dione",Phyllanthus emblica
